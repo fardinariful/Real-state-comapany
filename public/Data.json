@@ -1,0 +1,209 @@
+[
+    {
+      "id": 101,
+      "segment_name": "Single-family homes",
+      "estate_title": "Elegant Suburban Residence",
+      "description": "A spacious and stylish single-family home with modern interiors.",
+      "price": "$450,000",
+      "status": "sale",
+      "area": "2800 sq ft",
+      "location": "101 Willow Lane, Greenville",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Garage"],
+      "image": "https://example.com/images/single-family-home-1.jpg"
+
+    },
+    {
+      "id": 102,
+      "segment_name": "Single-family homes",
+      "estate_title": "Charming Country House",
+      "description": "A cozy countryside home with a large garden and scenic views.",
+      "price": "$320,000",
+      "status": "sale",
+      "area": "2300 sq ft",
+      "location": "77 Countryside Road, Meadowtown",
+      "facilities": ["Living room", "Fireplace", "Kitchen"],
+      "image": "https://example.com/images/single-family-home-2.jpg"
+      
+    },
+    {
+      "id": 103,
+      "segment_name": "Townhouses",
+      "estate_title": "Urban Townhouse",
+      "description": "A modern townhouse located in the city's vibrant center.",
+      "price": "$280,000",
+      "status": "sale",
+      "area": "1600 sq ft",
+      "location": "19 Main Street, Cityville",
+      "facilities": ["Living room", "Balcony", "Kitchen"],
+      "image": "https://example.com/images/townhouse-1.jpg"
+     
+    },
+    {
+      "id": 104,
+      "segment_name": "Townhouses",
+      "estate_title": "Cozy Community Townhouse",
+      "description": "A lovely townhouse in a quiet community with shared amenities.",
+      "price": "$230,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "34 Elm Street, Suburbia",
+      "facilities": ["Living room", "Swimming pool", "Garage"],
+      "image": "https://example.com/images/townhouse-2.jpg"
+    
+    },
+    {
+      "id": 105,
+      "segment_name": "Apartments",
+      "estate_title": "Luxury Penthouse",
+      "description": "A top-floor penthouse with panoramic city views.",
+      "price": "$3,000/month",
+      "status": "rent",
+      "area": "1800 sq ft",
+      "location": "12 Highrise Avenue, Downtown",
+      "facilities": ["Living room", "Swimming pool", "Rooftop access"],
+      "image": "https://example.com/images/apartment-1.jpg"
+      
+    },
+    {
+      "id": 106,
+      "segment_name": "Apartments",
+      "estate_title": "Cozy Studio Apartment",
+      "description": "A compact and affordable studio in a great neighborhood.",
+      "price": "$900/month",
+      "status": "rent",
+      "area": "600 sq ft",
+      "location": "88 Parkside Lane, Midtown",
+      "facilities": ["Living room", "Kitchen", "Laundry"],
+      "image": "https://example.com/images/apartment-2.jpg"
+
+    },
+    {
+      "id": 107,
+      "segment_name": "Student housing",
+      "estate_title": "Modern Dormitory",
+      "description": "Affordable student housing with shared facilities and private rooms.",
+      "price": "$400/month",
+      "status": "rent",
+      "area": "450 sq ft",
+      "location": "50 University Drive, Campus City",
+      "facilities": ["Living room", "Shared kitchen", "Study area"],
+      "image": "https://example.com/images/student-housing-1.jpg"
+      
+    },
+    {
+      "id": 108,
+      "segment_name": "Student housing",
+      "estate_title": "Shared Student Apartment",
+      "description": "Comfortable shared apartments tailored for university students.",
+      "price": "$600/month",
+      "status": "rent",
+      "area": "900 sq ft",
+      "location": "11 Campus Lane, Collegeland",
+      "facilities": ["Living room", "Kitchen", "Shared laundry"],
+      "image": "https://example.com/images/student-housing-2.jpg"
+    
+    },
+    {
+      "id": 109,
+      "segment_name": "Senior living communities",
+      "estate_title": "Luxury Senior Apartment",
+      "description": "Elegant living spaces for seniors with premium amenities.",
+      "price": "$2,500/month",
+      "status": "rent",
+      "area": "1300 sq ft",
+      "location": "456 Tranquility Drive, Golden City",
+      "facilities": ["Living room", "Medical support", "Gym"],
+      "image": "https://example.com/images/senior-living-1.jpg"
+      
+    },
+    {
+      "id": 1010,
+      "segment_name": "Senior living communities",
+      "estate_title": "Serene Retirement Home",
+      "description": "A peaceful environment with assisted living options.",
+      "price": "$1,800/month",
+      "status": "rent",
+      "area": "1000 sq ft",
+      "location": "78 Harmony Way, Elderwood",
+      "facilities": ["Living room", "Shared garden", "On-site nurse"],
+      "image": "https://example.com/images/senior-living-2.jpg"
+      
+    },
+    {
+      "id": 1011,
+      "segment_name": "Vacation rentals",
+      "estate_title": "Mountain Cabin",
+      "description": "A rustic cabin surrounded by breathtaking mountain views.",
+      "price": "$300/night",
+      "status": "rent",
+      "area": "2000 sq ft",
+      "location": "23 Pine Hill, High Range",
+      "facilities": ["Living room", "Fireplace", "Outdoor deck"],
+      "image": "https://example.com/images/vacation-rental-1.jpg"
+      
+    },
+    {
+      "id": 1012,
+      "segment_name": "Vacation rentals",
+      "estate_title": "Lakefront Cottage",
+      "description": "A cozy cottage with direct access to a tranquil lake.",
+      "price": "$350/night",
+      "status": "rent",
+      "area": "1800 sq ft",
+      "location": "99 Lakeside Drive, Serenity Lake",
+      "facilities": ["Living room", "Fishing dock", "Fireplace"],
+      "image": "https://example.com/images/vacation-rental-2.jpg"
+      
+    },
+    {
+      "id": 1013,
+      "segment_name": "Single-family homes",
+      "estate_title": "Luxury Suburban Home",
+      "description": "A luxurious home with state-of-the-art amenities.",
+      "price": "$550,000",
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "55 Sunset Boulevard, Dreamland",
+      "facilities": ["Living room", "Swimming pool", "Garage"],
+      "image": "https://example.com/images/single-family-home-3.jpg"
+     
+    },
+    {
+      "id": 1014,
+      "segment_name": "Townhouses",
+      "estate_title": "Spacious Corner Townhouse",
+      "description": "A corner townhouse with extra yard space.",
+      "price": "$300,000",
+      "status": "sale",
+      "area": "1700 sq ft",
+      "location": "88 Corner Lane, Townsville",
+      "facilities": ["Living room", "Swimming pool", "Garage"],
+      "image": "https://example.com/images/townhouse-3.jpg"
+ 
+    },
+    {
+      "id": 1015,
+      "segment_name": "Apartments",
+      "estate_title": "Modern Loft Apartment",
+      "description": "A trendy loft with industrial-style interiors.",
+      "price": "$2,000/month",
+      "status": "rent",
+      "area": "1100 sq ft",
+      "location": "9 Industrial Avenue, Downtown",
+      "facilities": ["Living room", "Rooftop access", "Kitchen"],
+      "image": "https://example.com/images/apartment-3.jpg"
+
+    },
+    {
+      "id": 1016,
+      "segment_name": "Vacation rentals",
+      "estate_title": "Tropical Island Villa",
+      "description": "A private villa surrounded by lush greenery and beaches.",
+      "price": "$600/night",
+      "status": "rent",
+      "area": "3000 sq ft",
+      "location": "123 Paradise Island, Tropicana",
+      "facilities": ["Living room", "Private pool", "Outdoor kitchen"],
+      "image": "https://example.com"
+    }
+    ]
