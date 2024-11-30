@@ -1,32 +1,38 @@
  [
       {
         "category_id": 1,
-        "segment_name": "Single-family homes"
+        "segment_name": "Single-family homes",
+        "images":"https://i.ibb.co.com/QD7fsQk/Getty-Images-595504906.jpg"
        
       },
       {
         "category_id": 2,
-        "segment_name": "Townhouses"
-        
+        "segment_name": "Townhouses",
+        "images":"https://i.ibb.co.com/MgnJYSD/images-1.jpg"
+       
       },
       {
         "category_id": 3,
-        "segment_name": "Apartments"
-        
+        "segment_name": "Apartments",
+        "images":"https://i.ibb.co.com/h1y4ZHS/images-2.jpg"
+       
       },
       {
         "category_id": 4,
-        "segment_name": "Student housing"
-        
+        "segment_name": "Student housing",
+        "images":"https://i.ibb.co.com/gZTyksZ/images-3.jpg"
+       
       },
       {
         "category_id": 5,
-        "segment_name": "Senior living communities"
-      
+        "segment_name": "Senior living communities",
+      "images":"https://i.ibb.co.com/C6vbFJ7/images-4.jpg"
+       
       },
       {
         "category_id": 6,
-        "segment_name": "Vacation rentals"
-     
+        "segment_name": "Vacation rentals",
+     "images":"https://i.ibb.co.com/gF7g3dB/images.jpg"
+       
       }
     ]
